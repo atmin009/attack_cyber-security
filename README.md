@@ -1,7 +1,5 @@
 # โปรเจกต์การโจมตีรูปแบบ UDP Flood ด้วยแหล่งที่มา IP สุ่ม
 
-โปรเจกต์นี้เป็นการศึกษาและทดลองการโจมตีรูปแบบ UDP Flood โดยใช้ IP แหล่งที่มาที่ถูกสุ่มเพื่อทดสอบและวิเคราะห์ความเสี่ยงที่อาจเกิดขึ้นต่อระบบเครือข่าย โปรดทราบว่า โปรเจกต์นี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้นและไม่ควรใช้ในทางที่ผิดกฎหมายหรือเพื่อความเสียหายต่อบุคคลหรือองค์กรใดๆ
-
 ## สมาชิกในกลุ่ม
 
 - 64101587 นายเกียรติศักดิ์ ศิริเพ็ชร์
@@ -12,8 +10,7 @@
 
 ## ตัวอย่างหน้าจอการทำงาน
 
-![ภาพการทำงาน](![image](https://github.com/atmin009/attack_cyber-security/blob/main/1.png?raw=true)
-)
-![ภาพการทำงาน](![image](https://github.com/atmin009/attack_cyber-security/blob/main/2.png?raw=true
-)
-)
+![ภาพการทำงาน 1](https://raw.githubusercontent.com/atmin009/attack_cyber-security/main/1.png)
+
+![ภาพการทำงาน 2](https://raw.githubusercontent.com/atmin009/attack_cyber-security/main/2.png)
+
